@@ -1,13 +1,36 @@
+# Screen Shots
+Vizceral with simple sample data
+
+
+![Vizceral](images/vizceral.png?raw=true "Vizceral")
+
+
+Node Red Basic Flow 
+![Basic Flow](images/basic-tab-flow.png?raw=true "Basic Flow")
+
+
+Node Red Elasticsearch Flow
+![Elasticsearch Flow](images/elasticsearch-tab-flow.png?raw=true "Elasticsearch Flow")
+
+
+Toggle page to quickly switch between simple complex and live elasticsearch data
+![Toggle Page](images/toggle-page.png?raw=true "Toggle Page")
+
+
 # Build
+I have not fully integrated all the components to make the project look cleaner but it is functional
+I also don't install anything globally as I have multiple projects I am working on. 
 
 From git repo dir
-* npm install
+Step 1
+* npm install  # requresments for node-red
+
+Step 2
 * cd vizceral-example
-* npm install
+* npm install  # Yes you have to do this again in the vizceral-example directory
 * ./node_modules/.bin/webpack 
 * npm run copy:fonts
 * npm run copy:json
-
 
 # Run 
 From github repo dir
