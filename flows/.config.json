@@ -13,7 +13,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/analysis/72-sentiment.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/analysis/72-sentiment.js"
     },
     "inject": {
      "name": "inject",
@@ -23,7 +23,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/20-inject.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/20-inject.js"
     },
     "catch": {
      "name": "catch",
@@ -33,7 +33,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/25-catch.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/25-catch.js"
     },
     "status": {
      "name": "status",
@@ -43,7 +43,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/25-status.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/25-status.js"
     },
     "debug": {
      "name": "debug",
@@ -53,7 +53,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/58-debug.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/58-debug.js"
     },
     "link": {
      "name": "link",
@@ -64,7 +64,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/60-link.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/60-link.js"
     },
     "exec": {
      "name": "exec",
@@ -74,7 +74,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/75-exec.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/75-exec.js"
     },
     "function": {
      "name": "function",
@@ -84,7 +84,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/80-function.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/80-function.js"
     },
     "template": {
      "name": "template",
@@ -94,7 +94,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/80-template.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/80-template.js"
     },
     "delay": {
      "name": "delay",
@@ -104,7 +104,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/89-delay.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/89-delay.js"
     },
     "trigger": {
      "name": "trigger",
@@ -114,7 +114,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/89-trigger.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/89-trigger.js"
     },
     "comment": {
      "name": "comment",
@@ -124,7 +124,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/90-comment.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/90-comment.js"
     },
     "unknown": {
      "name": "unknown",
@@ -134,7 +134,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/core/98-unknown.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/core/98-unknown.js"
     },
     "rpi-gpio": {
      "name": "rpi-gpio",
@@ -147,7 +147,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/hardware/36-rpi-gpio.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/hardware/36-rpi-gpio.js"
     },
     "tls": {
      "name": "tls",
@@ -157,7 +157,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/05-tls.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/05-tls.js"
     },
     "mqtt": {
      "name": "mqtt",
@@ -169,7 +169,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/10-mqtt.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/10-mqtt.js"
     },
     "httpin": {
      "name": "httpin",
@@ -180,7 +180,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/21-httpin.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/21-httpin.js"
     },
     "httprequest": {
      "name": "httprequest",
@@ -190,7 +190,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/21-httprequest.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/21-httprequest.js"
     },
     "websocket": {
      "name": "websocket",
@@ -203,7 +203,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/22-websocket.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/22-websocket.js"
     },
     "watch": {
      "name": "watch",
@@ -213,7 +213,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/23-watch.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/23-watch.js"
     },
     "tcpin": {
      "name": "tcpin",
@@ -225,7 +225,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/31-tcpin.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/31-tcpin.js"
     },
     "udp": {
      "name": "udp",
@@ -236,7 +236,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/io/32-udp.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/io/32-udp.js"
     },
     "switch": {
      "name": "switch",
@@ -246,7 +246,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/10-switch.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/10-switch.js"
     },
     "change": {
      "name": "change",
@@ -256,7 +256,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/15-change.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/15-change.js"
     },
     "range": {
      "name": "range",
@@ -266,7 +266,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/16-range.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/16-range.js"
     },
     "split": {
      "name": "split",
@@ -277,7 +277,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/17-split.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/17-split.js"
     },
     "sort": {
      "name": "sort",
@@ -287,7 +287,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/18-sort.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/18-sort.js"
     },
     "batch": {
      "name": "batch",
@@ -297,7 +297,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/logic/19-batch.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/logic/19-batch.js"
     },
     "CSV": {
      "name": "CSV",
@@ -307,7 +307,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/parsers/70-CSV.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/parsers/70-CSV.js"
     },
     "HTML": {
      "name": "HTML",
@@ -317,7 +317,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/parsers/70-HTML.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/parsers/70-HTML.js"
     },
     "JSON": {
      "name": "JSON",
@@ -327,7 +327,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/parsers/70-JSON.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/parsers/70-JSON.js"
     },
     "XML": {
      "name": "XML",
@@ -337,7 +337,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/parsers/70-XML.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/parsers/70-XML.js"
     },
     "YAML": {
      "name": "YAML",
@@ -347,7 +347,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/parsers/70-YAML.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/parsers/70-YAML.js"
     },
     "tail": {
      "name": "tail",
@@ -357,7 +357,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/storage/28-tail.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/storage/28-tail.js"
     },
     "file": {
      "name": "file",
@@ -368,7 +368,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red/nodes/core/storage/50-file.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red/nodes/core/storage/50-file.js"
     }
    }
   },
@@ -385,7 +385,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/search.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/search.js"
     },
     "aggregations": {
      "name": "aggregations",
@@ -395,7 +395,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/aggregations.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/aggregations.js"
     },
     "create": {
      "name": "create",
@@ -405,7 +405,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/create.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/create.js"
     },
     "exists": {
      "name": "exists",
@@ -415,7 +415,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/exists.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/exists.js"
     },
     "update": {
      "name": "update",
@@ -425,7 +425,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/update.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/update.js"
     },
     "delete": {
      "name": "delete",
@@ -435,7 +435,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/delete.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/delete.js"
     },
     "get": {
      "name": "get",
@@ -445,7 +445,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/get.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/get.js"
     },
     "remote-server": {
      "name": "remote-server",
@@ -455,7 +455,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-contrib-elasticsearch7",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-elasticsearch7/remote-server.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-contrib-elasticsearch7/remote-server.js"
     }
    }
   },
@@ -472,7 +472,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-rbe",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-node-rbe/rbe.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-node-rbe/rbe.js"
     }
    }
   },
@@ -490,7 +490,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-email",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-node-email/61-email.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-node-email/61-email.js"
     }
    }
   },
@@ -507,7 +507,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-feedparser",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-node-feedparser/32-feedparse.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-node-feedparser/32-feedparse.js"
     }
    }
   },
@@ -526,24 +526,7 @@
      "enabled": true,
      "local": false,
      "module": "node-red-node-twitter",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-node-twitter/27-twitter.js"
-    }
-   }
-  },
-  "node-red-contrib-uibuilder": {
-   "name": "node-red-contrib-uibuilder",
-   "version": "1.0.6",
-   "local": false,
-   "nodes": {
-    "uibuilder": {
-     "name": "uibuilder",
-     "types": [
-      "uibuilder"
-     ],
-     "enabled": true,
-     "local": false,
-     "module": "node-red-contrib-uibuilder",
-     "file": "/home/eperry/node-red-vizcereal/node_modules/node-red-contrib-uibuilder/nodes/uibuilder.js"
+     "file": "/home/eperry/node-red-elasticsearch-vizcereal/node_modules/node-red-node-twitter/27-twitter.js"
     }
    }
   }

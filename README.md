@@ -4,7 +4,7 @@ From git repo dir
 * npm install
 * cd vizceral-example
 * npm install
-* webpack
+* ./node_modules/.bin/webpack 
 * npm run copy:fonts
 * npm run copy:json
 
