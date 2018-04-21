@@ -164,7 +164,7 @@ class TrafficFlow extends React.Component {
     this.checkInitialRoute();
     this.beginSampleData();
     const self = this;
-    this.intervalHandle = setInterval( () => { self.beginSampleData(self); }, 10000);
+    this.intervalHandle = setInterval(() => { self.beginSampleData(self); }, 10000);
 
     // Listen for changes to the stores
     filterStore.addChangeListener(this.filtersChanged);
